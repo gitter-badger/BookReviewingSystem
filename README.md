@@ -1,5 +1,7 @@
 # Book Reviewing System Project
 
+[![Join the chat at https://gitter.im/BookReviewingSystem/Lobby](https://badges.gitter.im/BookReviewingSystem/Lobby.svg)](https://gitter.im/BookReviewingSystem/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Framgia has many technical books that all employees can read. To manage and use them effectively, the management and reviewing system is needed.
 
 User
